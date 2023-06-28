@@ -2,7 +2,7 @@
 
 This repository contains the code and data for the research paper "Consumer willingness to substitute animal products for plant-based alternatives" by Krystal Caldwell.
 
-The paper is available at [https://osf.io/s8kjh](https://osf.io/s8kjh).
+The paper is available at [https://osf.io/au5by](https://osf.io/au5by).
 
 The Tableau Public dashboard containing the results of this paper is available at: https://public.tableau.com/app/profile/krystal.caldwell7225/viz/WillingnesstoSub1/W-to-S1
 
@@ -10,7 +10,7 @@ Reach out to Krystal at kdcald@gmail.com if you have any questions about the pap
 
 **Citation:**
 
-Caldwell, K. (2023). Consumer willingness to substitute animal products for plant-based alternatives. *Unpublished manuscript*. Available at: https://osf.io/s8kjh. 
+Caldwell, K. (2023). Consumer willingness to substitute animal products for plant-based alternatives. *Unpublished manuscript*. Available at: https://osf.io/au5by. 
 
 ## Main Scripts
 
